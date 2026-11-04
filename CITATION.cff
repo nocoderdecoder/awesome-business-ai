@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project, cite the repository and the commit you used."
+title: "Awesome Business AI: A Practical Adoption Field Guide"
+type: software
+authors:
+  - family-names: Gupta
+    given-names: Anshul
+repository-code: "https://github.com/nocoderdecoder/awesome-business-ai"
+url: "https://github.com/nocoderdecoder/awesome-business-ai"
+date-released: 2026-11-04
+license: CC0-1.0
+abstract: "A curated resource catalog, business workflow playbooks, pilot templates, and an offline synthetic evaluation example."
+keywords:
+  - business AI
+  - AI adoption
+  - workflow evaluation
+  - AI literacy
