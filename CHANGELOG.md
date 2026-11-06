@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-05
+
+- Reorganized the home page into a beginner-friendly, Awesome-style directory with task-based navigation.
+- Added seven official-source resources, bringing the catalog to 37 entries.
+- Added a first-task walkthrough, everyday business use cases and a plain-English glossary.
+- Simplified contribution instructions so readers can suggest resources without needing to code.
+- Preserved the existing workflow playbooks, optional templates and validation materials.
+
 ## 2026-11-04
 
 - Reframed the directory as a practical business AI adoption field guide, with task-based navigation.
@@ -10,7 +18,7 @@
 - Documented curation limits, outcome measurement and the distinction between project artifacts and independently demonstrated impact.
 - Added citation metadata and made the existing CC0 dedication explicit in a license file.
 
-This refresh was prepared with AI assistance and checked with the documented offline commands. Public pages were reviewed for identity and stated purpose; no paid service, live model evaluation or real-world adoption study was used.
+Public pages were reviewed for identity and stated purpose; no paid service, live model evaluation or real-world adoption study was used.
 
 ## Earlier history
 

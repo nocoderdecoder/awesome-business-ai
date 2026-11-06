@@ -18,11 +18,13 @@ Catalog order groups resources by purpose. It is not a league table. The directo
 
 ## Meaning of the review date
 
-For the November 4, 2026 refresh, official public pages were retrieved through web browsing. Review covered resource identity and stated purpose. Redirects were followed; current destination URLs were used where appropriate. Each entry records the URL, `source_checked_on` date and `verification_scope` in [resources.json](../data/resources.json).
+For the November 4, 2026 refresh and November 5, 2026 additions, official public pages were reviewed through web browsing. Review covered resource identity and stated purpose. Redirects were followed; current destination URLs were used where appropriate. Each entry records the URL, `source_checked_on` date and `verification_scope` in [resources.json](../data/resources.json).
 
 This was a **public-source review**, not hands-on testing. No vendor account was opened, paid plan activated, trial started, API called, security assurance validated or comparative benchmark performed. Vendor assertions are not independent evidence. Prices, plan entitlements, geographic availability, integrations and product names can change. Recheck relevant documentation and contracts before a pilot.
 
 Failed or inaccessible candidate URLs were not treated as verified. The current catalog omits candidates whose official pages could not be retrieved during the refresh. A retrieved page can still become stale; the offline validator does not check external reachability.
+
+The November 5 additions use the same public-source verification boundary. Individual resources retain their original review dates; the catalog update date is not a claim that every product was retested.
 
 The previous README included a broad “active in 2025” assertion and unsupported quantitative descriptions. This refresh replaces them with scoped, dated source review. The original directory remains in Git history; its previous claims were not independently validated in this refresh.
 

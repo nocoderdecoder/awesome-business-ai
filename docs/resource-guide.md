@@ -4,7 +4,7 @@ Generated from [data/resources.json](../data/resources.json). Edit the JSON and 
 
 Source review means the linked official page was reviewed for relevance. It is not hands-on testing, procurement approval, a price guarantee, or a comparative endorsement. See [review methodology](methodology.md).
 
-This catalog contains 30 resources. Check current terms, plan requirements, regional availability, and data handling before use.
+This catalog contains 37 resources. Check current terms, plan requirements, regional availability, and data handling before use.
 
 Review scope for every entry: Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification.
 
@@ -42,6 +42,8 @@ Review scope for every entry: Official public page retrieved; identity and state
 
 | Resource | Type | Business use | Pilot review question | Source checked |
 | --- | --- | --- | --- | --- |
+| [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | course | Understand how organizations can identify AI opportunities without an engineering background. | Can the learner identify a task that should stay under human control? | 2026-11-05 |
+| [Elements of AI](https://course.elementsofai.com/) | course | Learn AI fundamentals through a beginner-oriented online course. | Can learners explain a useful application and an important limitation? | 2026-11-05 |
 | [Grow with Google AI training](https://grow.google/ai/) | learning hub | Find introductory AI skills and business-oriented learning resources. | Does the learning path match the team's tasks, budget and starting skill level? | 2026-11-04 |
 | [Microsoft AI learning hub](https://learn.microsoft.com/en-us/ai/) | learning hub | Find AI learning resources for business and technical roles. | Can learners demonstrate a reviewed workflow after completing training? | 2026-11-04 |
 
@@ -50,6 +52,7 @@ Review scope for every entry: Official public page retrieved; identity and state
 | Resource | Type | Business use | Pilot review question | Source checked |
 | --- | --- | --- | --- | --- |
 | [Canva AI](https://www.canva.com/canva-ai/) | platform | Create draft designs and visual business communication. | Does the exported asset preserve readable text and approved brand content? | 2026-11-04 |
+| [Descript](https://www.descript.com/) | platform | Edit recorded interviews, training videos and marketing clips. | Are captions, speaker permissions and factual claims correct? | 2026-11-05 |
 | [Gamma](https://gamma.app/) | platform | Turn reviewed outlines into draft presentations and documents. | Does the exported deck preserve sources and fit actual slide content? | 2026-11-04 |
 | [Jasper](https://www.jasper.ai/) | platform | Draft marketing content using an approved brand brief. | Are product claims, brand requirements and usage rights reviewed? | 2026-11-04 |
 
@@ -59,6 +62,12 @@ Review scope for every entry: Official public page retrieved; identity and state
 | --- | --- | --- | --- | --- |
 | [Fireflies](https://fireflies.ai/) | platform | Review meeting summaries and searchable conversation notes. | Are recording consent, retention and access configured for this meeting? | 2026-11-04 |
 | [Otter](https://otter.ai/) | platform | Draft meeting transcripts, summaries and action items. | Are recording permissions, speaker attribution and action owners verified? | 2026-11-04 |
+
+## Online stores
+
+| Resource | Type | Business use | Pilot review question | Source checked |
+| --- | --- | --- | --- | --- |
+| [Shopify Sidekick](https://www.shopify.com/sidekick) | platform | Help Shopify merchants draft product content and explore store tasks. | Does the proposed change match actual products, prices and store policies? | 2026-11-05 |
 
 ## Operations and automation
 
@@ -82,6 +91,7 @@ Review scope for every entry: Official public page retrieved; identity and state
 | --- | --- | --- | --- | --- |
 | [Notion AI](https://www.notion.com/product/ai) | platform | Evaluate answers and drafting against workspace knowledge. | Does an access-restricted test document stay inaccessible? | 2026-11-04 |
 | [Perplexity Enterprise](https://www.perplexity.ai/enterprise) | platform | Research business questions and inspect cited source material. | Do the cited pages support each claim and its date? | 2026-11-04 |
+| [Stanford AI Index](https://hai.stanford.edu/ai-index) | report | Find research and data on AI adoption, investment and capabilities. | Does the cited figure match the right year, geography and definition? | 2026-11-05 |
 
 ## Responsible adoption
 
@@ -97,3 +107,10 @@ Review scope for every entry: Official public page retrieved; identity and state
 | --- | --- | --- | --- | --- |
 | [Gong](https://www.gong.io/) | platform | Review sales interactions and pipeline information. | Can a rep verify a deal summary against the actual interaction? | 2026-11-04 |
 | [HubSpot AI](https://www.hubspot.com/products/artificial-intelligence) | platform | Explore AI-assisted CRM workflows and agent management. | Which actions can write to CRM records or contact prospects? | 2026-11-04 |
+
+## Writing and translation
+
+| Resource | Type | Business use | Pilot review question | Source checked |
+| --- | --- | --- | --- | --- |
+| [DeepL Translator](https://www.deepl.com/en/translator) | platform | Translate customer-facing and internal business text. | Has someone checked names, commercial terms and local expressions? | 2026-11-05 |
+| [Grammarly](https://www.grammarly.com/ai) | platform | Review clarity, grammar and tone in business writing. | Does the revised message still say what the business intends? | 2026-11-05 |
