@@ -1,33 +1,37 @@
 # Contributing
 
-Help a business professional make a better decision or run a more reviewable pilot. Useful contributions include corrected official links, narrowly described resources, worked examples, failure cases, improved prompts, more usable documents, and fixes to offline checks.
+Awesome Business AI is intended for people who work in or run businesses. You can help improve it without knowing how to code.
 
-## Add or update a resource
+## Suggest a tool, course or helpful guide
 
-1. Read the [curation method](docs/methodology.md).
-2. Retrieve the official source and confirm that it supports the stated purpose. Claim hands-on testing only if performed and documented.
-3. Edit [data/resources.json](data/resources.json). Include every existing field, a unique stable ID, an HTTPS official URL, a real ISO review date, and a specific pilot review question.
-4. State verification limits. Avoid affiliate links, unsupported statistics, rankings and guarantees.
-5. Regenerate the guide and run checks:
+[Open a GitHub issue](https://github.com/nocoderdecoder/awesome-business-ai/issues/new). Tell us:
 
-```bash
-python3 scripts/render_catalog.py
-python3 scripts/render_catalog.py --check
-python3 scripts/validate.py
-python3 -m unittest discover -s tests -v
-python3 scripts/evaluate.py
-```
+- **Name and official link:** Where can someone find it?
+- **Who is it for?** A manager, shop owner, marketer, customer service team or someone else?
+- **What does it help with?** Describe one clear task in everyday language.
+- **What should readers check?** Mention a relevant limitation or review step.
+- **Any connection to the provider?** Please disclose employment, sponsorship or other financial relationships.
 
-## Improve a workflow
+You can also open an issue for a broken link, outdated product name or unclear description. No code is needed.
 
-Use synthetic examples or material you have permission to publish. Include expected behavior, an unsafe or ambiguous case, an acceptance checklist, a human approval boundary and outcome measures. A prompt alone does not demonstrate that a workflow works.
+## Propose a page change
 
-Keep examples vendor-neutral where feasible. Distinguish manually authored examples from model-generated responses, and rule-based checks from human evaluation. Report limitations alongside results.
+If you're comfortable editing a page on GitHub:
 
-## Review process
+1. Open the page and select the edit option.
+2. Make a focused correction with a source.
+3. Choose the option to propose changes and submit a pull request.
 
-Open a pull request explaining the user problem, primary sources reviewed, changes and checks run. Disclose vendor or affiliate relationships. A maintainer reviews relevance, evidence, usability and scope before acceptance. The process does not imply independent adoption or endorsement.
+Please avoid copied marketing language, unsupported rankings, inflated statistics and affiliate links. Use official product or publisher pages where possible. Do not submit passwords, customer records, confidential documents or other people's private information.
 
-Do not include credentials, customer records, identifiable candidate information, private transcripts or confidential documents in issues, tests or pull requests.
+## Updating the resource catalog
 
-By contributing original material, you agree to its [CC0 dedication](LICENSE). Third-party works retain their own terms; link to them rather than copying protected content wholesale.
+If you are comfortable working with repository files, update [data/resources.json](data/resources.json). Preserve stable IDs and existing fields, record the real date you reviewed the official source, and do not claim hands-on testing unless it actually happened and is documented.
+
+The readable [resource guide](docs/resource-guide.md) is generated from the catalog. After editing the catalog, regenerate it and run the checks documented in [scripts/render_catalog.py](scripts/render_catalog.py) and [scripts/validate.py](scripts/validate.py). Otherwise, simply suggest the change in an issue.
+
+## How suggestions are reviewed
+
+We look for a direct official source, a genuine business use and an accurate description. Inclusion does not imply endorsement, independent product testing or approval to process confidential information.
+
+Original contributions fall under the repository's [CC0 1.0 dedication](LICENSE). Linked third-party material retains its own terms.

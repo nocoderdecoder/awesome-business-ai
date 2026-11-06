@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-11-04",
+  "reviewed_on": "2026-11-05",
   "resources": [
     {
       "id": "chatgpt",
@@ -330,6 +330,83 @@
       "business_use": "Find AI learning resources for business and technical roles.",
       "review_question": "Can learners demonstrate a reviewed workflow after completing training?",
       "source_checked_on": "2026-11-04",
+      "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
+    },
+    {
+      "id": "shopify-sidekick",
+      "name": "Shopify Sidekick",
+      "url": "https://www.shopify.com/sidekick",
+      "category": "Online stores",
+      "kind": "platform",
+      "business_use": "Help Shopify merchants draft product content and explore store tasks.",
+      "review_question": "Does the proposed change match actual products, prices and store policies?",
+      "source_checked_on": "2026-11-05",
+      "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
+    },
+    {
+      "id": "grammarly",
+      "name": "Grammarly",
+      "url": "https://www.grammarly.com/ai",
+      "category": "Writing and translation",
+      "kind": "platform",
+      "business_use": "Review clarity, grammar and tone in business writing.",
+      "review_question": "Does the revised message still say what the business intends?",
+      "source_checked_on": "2026-11-05",
+      "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
+    },
+    {
+      "id": "deepl",
+      "name": "DeepL Translator",
+      "url": "https://www.deepl.com/en/translator",
+      "category": "Writing and translation",
+      "kind": "platform",
+      "business_use": "Translate customer-facing and internal business text.",
+      "review_question": "Has someone checked names, commercial terms and local expressions?",
+      "source_checked_on": "2026-11-05",
+      "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
+    },
+    {
+      "id": "descript",
+      "name": "Descript",
+      "url": "https://www.descript.com/",
+      "category": "Marketing and design",
+      "kind": "platform",
+      "business_use": "Edit recorded interviews, training videos and marketing clips.",
+      "review_question": "Are captions, speaker permissions and factual claims correct?",
+      "source_checked_on": "2026-11-05",
+      "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
+    },
+    {
+      "id": "elements-of-ai",
+      "name": "Elements of AI",
+      "url": "https://course.elementsofai.com/",
+      "category": "Learning",
+      "kind": "course",
+      "business_use": "Learn AI fundamentals through a beginner-oriented online course.",
+      "review_question": "Can learners explain a useful application and an important limitation?",
+      "source_checked_on": "2026-11-05",
+      "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
+    },
+    {
+      "id": "ai-for-everyone",
+      "name": "AI for Everyone",
+      "url": "https://www.coursera.org/learn/ai-for-everyone",
+      "category": "Learning",
+      "kind": "course",
+      "business_use": "Understand how organizations can identify AI opportunities without an engineering background.",
+      "review_question": "Can the learner identify a task that should stay under human control?",
+      "source_checked_on": "2026-11-05",
+      "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
+    },
+    {
+      "id": "stanford-ai-index",
+      "name": "Stanford AI Index",
+      "url": "https://hai.stanford.edu/ai-index",
+      "category": "Research and knowledge",
+      "kind": "report",
+      "business_use": "Find research and data on AI adoption, investment and capabilities.",
+      "review_question": "Does the cited figure match the right year, geography and definition?",
+      "source_checked_on": "2026-11-05",
       "verification_scope": "Official public page retrieved; identity and stated purpose only. No hands-on, pricing, security or performance verification."
     }
   ]
